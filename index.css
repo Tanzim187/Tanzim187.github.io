@@ -1,0 +1,35 @@
+h1{
+    color: white;
+    text-align: center;
+    background-color: black;
+    font-weight: bold;
+}
+
+img{
+    width: auto;
+    height: auto;
+    align-self: center;
+}
+
+#banner{
+    color: white;
+    background-color: black;
+    margin-top: 75px;
+    text-align: center;
+    border: 20px black solid;
+    fill: black;
+    display: inline-block;
+    box-sizing: border-box;
+    list-style: none;
+    position: static;
+    width: 1000px;
+    padding: 60px;
+    
+}
+p{
+    color: white;
+}
+
+*{
+    background-color: blue;
+}
