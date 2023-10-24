@@ -24,6 +24,7 @@ img{
     position: static;
     width: 1000px;
     padding: 60px;
+    display: inline-block;
     
 }
 p{
