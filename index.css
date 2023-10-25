@@ -24,6 +24,7 @@ nav li{
     position: static;
     width: 1000px;
     padding: 60px;
+    height: 50px;
 }
 
 .welcome{
