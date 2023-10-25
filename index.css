@@ -26,6 +26,7 @@ nav li{
     padding: 60px;
     height: 20px;
     line-height: 15px;
+    top
 }
 
 #welcome{
@@ -46,6 +47,8 @@ nav li{
     line-height: 40px;
     letter-spacing: 3px;
     margin-top: 15px;
+    margin-top: 35px;
+
 }
 
 
