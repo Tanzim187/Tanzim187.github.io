@@ -28,7 +28,7 @@ nav li{
     line-height: 15px;
 }
 
-.welcome{
+#welcome{
     color: black;
     font-family: sans-serif;
     font-weight: 500;
