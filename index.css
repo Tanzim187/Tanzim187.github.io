@@ -11,11 +11,11 @@ img{
     align-self: center;
 }
 
-#banner{
+nav li{
     color: white;
     background-color: black;
     margin-top: 75px;
-    text-align: center;
+    text-align: left;
     border: 20px black solid;
     fill: black;
     display: inline-block;
@@ -24,7 +24,7 @@ img{
     position: static;
     width: 1000px;
     padding: 60px;
-    display: inline-block;
+    
     
 }
 p{
